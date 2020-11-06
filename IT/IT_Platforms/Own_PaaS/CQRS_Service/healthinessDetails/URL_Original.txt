@@ -1,0 +1,2 @@
+http://dev.ybiyri.endpoints.sit-ownpaas-wkzt-run-d09b.cloud.goog/healthiness/details/?api_key=AIzaSyAXYDLQJ4E7GSI3QTtI8jgH7k-caAgmlvc
+http://dev.ybiyri.endpoints.sit-ownpaas-wkzt-run-d09b.cloud.goog/healthiness/value/?api_key=AIzaSyAXYDLQJ4E7GSI3QTtI8jgH7k-caAgmlvc

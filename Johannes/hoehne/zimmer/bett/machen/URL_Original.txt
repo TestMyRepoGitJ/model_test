@@ -1,0 +1,2 @@
+http://tux1659.int.secrz.com:8028/generic/healthiness/details?lane=johannes&domain=hoehne&team=zimmer&capability=bett&feature=machen&business_critical=true&business_healthiness_endpoint=true
+http://tux1659.int.secrz.com:8028/0/healthiness/value
