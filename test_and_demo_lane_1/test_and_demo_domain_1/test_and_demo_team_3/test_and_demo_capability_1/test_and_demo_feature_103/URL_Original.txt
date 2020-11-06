@@ -1,0 +1,10 @@
+http://tux1659.int.secrz.com:8028/103/healthiness/details
+http://tux1659.int.secrz.com:8028/103/healthiness/value
+http://tux1659.int.secrz.com:8028/103/latency/details
+http://tux1659.int.secrz.com:8028/103/latency/value
+http://tux1659.int.secrz.com:8028/103/traffic/details
+http://tux1659.int.secrz.com:8028/103/traffic/value
+http://tux1659.int.secrz.com:8028/103/error/details
+http://tux1659.int.secrz.com:8028/103/error/value
+http://tux1659.int.secrz.com:8028/103/saturation/details
+http://tux1659.int.secrz.com:8028/103/saturation/value
