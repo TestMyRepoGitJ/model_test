@@ -1,2 +1,0 @@
-http://tux1659.int.secrz.com:8020/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20product%20Product%20Aggregator&feature=Aggregate%20incoming%20data
-https://product-bo.prod.sit.sys.odj.cloud/internal/health

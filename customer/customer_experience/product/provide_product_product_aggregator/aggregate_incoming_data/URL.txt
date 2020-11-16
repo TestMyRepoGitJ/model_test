@@ -1,2 +1,0 @@
-/generic/healthiness/details?lane=Customer&domain=Customer%20Experience&team=Product&capability=Provide%20product%20Product%20Aggregator&feature=Aggregate%20incoming%20data&business_critical=true&business_healthiness_endpoint=false
-https://product-bo.prod.sit.sys.odj.cloud/internal/health

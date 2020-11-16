@@ -1,2 +1,0 @@
-http://tux1659.int.secrz.com:8028/generic/healthiness/details?lane=IT&domain=IT%20Platforms&team=Own%20PaaS&capability=CQRS%20Service&feature=CQRScommands&business_critical=true&business_healthiness_endpoint=true
-https://e2e-monitoring-service-fom77npr2a-ew.a.run.app/healthtracker/monitor/Axon-CommandCountDev/healthiness/value?api_key=AIzaSyCMtRY_HgCx9cl6sgY78akQoOBMCPhPdsU
