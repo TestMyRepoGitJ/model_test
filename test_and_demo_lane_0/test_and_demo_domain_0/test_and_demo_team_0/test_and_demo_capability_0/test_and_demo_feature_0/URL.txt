@@ -1,14 +1,14 @@
 /generic/healthiness/details?lane=Test%20and%20Demo%20Lane_0&domain=Test%20and%20Demo%20Domain_0&team=Test%20and%20Demo%20Team_0&capability=Test%20and%20Demo%20Capability_0&feature=Test%20and%20Demo%20Feature_0&business_critical=true&business_healthiness_endpoint=true
-http://192.168.5.248:8080/0/healthiness/value
+http://tux1659.int.secrz.com:8028/examples/0/healthiness/value
 
 /generic/latency/details?lane=Test%20and%20Demo%20Lane_0&domain=Test%20and%20Demo%20Domain_0&team=Test%20and%20Demo%20Team_0&capability=Test%20and%20Demo%20Capability_0&feature=Test%20and%20Demo%20Feature_0&expected_min_av=0.0&expected_max_av=55.5&expected_min_95=0.0&expected_max_95=99.9
-http://192.168.5.248:8080/0/latency/value
+http://tux1659.int.secrz.com:8028/examples/0/latency/value
 
 /generic/traffic/details?lane=Test%20and%20Demo%20Lane_0&domain=Test%20and%20Demo%20Domain_0&team=Test%20and%20Demo%20Team_0&capability=Test%20and%20Demo%20Capability_0&feature=Test%20and%20Demo%20Feature_0&traffic_unit=requests&expected_min=0.0&expected_max=9876.65
-http://192.168.5.248:8080/0/traffic/value
+http://tux1659.int.secrz.com:8028/examples/0/traffic/value
 
 /generic/error/details?lane=Test%20and%20Demo%20Lane_0&domain=Test%20and%20Demo%20Domain_0&team=Test%20and%20Demo%20Team_0&capability=Test%20and%20Demo%20Capability_0&feature=Test%20and%20Demo%20Feature_0&expected_min=0.0&expected_max=3.33
-http://192.168.5.248:8080/0/error/value
+http://tux1659.int.secrz.com:8028/examples/0/error/value
 
 /generic/saturation/details?lane=Test%20and%20Demo%20Lane_0&domain=Test%20and%20Demo%20Domain_0&team=Test%20and%20Demo%20Team_0&capability=Test%20and%20Demo%20Capability_0&feature=Test%20and%20Demo%20Feature_0&expected_min=0.0&expected_max=103.0
-http://192.168.5.248:8080/0/saturation/value
+http://tux1659.int.secrz.com:8028/examples/0/saturation/value
